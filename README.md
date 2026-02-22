@@ -51,9 +51,14 @@ Cuento con una alta capacidad de **resolución de problemas en entornos técnico
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidTorres91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTorres91&layout=compact&langs_count=7&theme=dracula&locale=es"/>
+  <a href="https://github.com/DavidTorres91">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidTorres91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=es"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTorres91&layout=compact&langs_count=7&theme=dracula&locale=es"/>
+  </a>
+  <br>
+  <p><i>Si las estadísticas no cargan, puedes ver mi actividad detallada <a href="https://github.com/DavidTorres91">aquí</a>.</i></p>
 </div>
+
 
 ---
 
